@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 # Hi,💫 I'm Prashant Shinde 
-💫 Data Scientist keen into machine learning, deep learning and Mlops.<br>🧷 I have deep passion for AI and love building innovative projects that<br>  &ensp; &ensp;solve real world problems.<br>📌 Currently enhancing my skills in field, and sharing my insights through [blogs](medium.com/@prashantai)<br> &ensp;&ensp;     and [newsletters](https://deepdatadives.substack.com/). You can visit my [Portfolio](https://prashantai.framer.website/) to know more about me.<br>
+💫 Data Scientist keen into machine learning, deep learning and Mlops.<br>🧷 I have deep passion for AI and love building innovative projects that<br>  &ensp; &ensp;solve real world problems.<br>📌 Currently enhancing my skills in field, and sharing my insights through [blogs](https://prashantai.medium.com)<br> &ensp;&ensp;     and [newsletters](https://deepdatadives.substack.com/). You can visit my [Portfolio](https://prashantai.framer.website/) to know more about me.<br>
 
 
 ## 🌐 Socials:
