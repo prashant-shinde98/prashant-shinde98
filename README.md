@@ -1,6 +1,6 @@
 # Hi,💫 I'm Prashant Shinde 
 💫 Data Scientist keen into machine learning, deep learning and Mlops.<br>🧷 I have deep passion for AI and love building innovative projects that<br>        
-    solve real world problems.<br>📌 Currently enhancing my skills in field, and sharing my insights through [blogs](medium.com/@prashantai)<br>           and [newsletters](https://deepdatadives.substack.com/). You can visit my [![Portfolio](https://prashantai.framer.website/) to know more about me.<br>
+solve real world problems.<br>📌 Currently enhancing my skills in field, and sharing my insights through [blogs](medium.com/@prashantai)<br>      and [newsletters](https://deepdatadives.substack.com/). You can visit my [![Portfolio](https://prashantai.framer.website/) to know more about me.<br>
 
 
 ## 🌐 Socials:
@@ -13,5 +13,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prashant-shinde98&theme=dark&hide_border=true)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prashant-shinde98&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=prashant-shinde98&icon=0&color=0)]
 
